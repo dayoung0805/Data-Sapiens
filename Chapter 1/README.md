@@ -13,7 +13,11 @@
         
 ## 데이터 방면에서 '고수' 소리를 들으려면 무엇을 잘해야 할까?          
 1) 데이터 수집(Collection)   
-    
+: Size & Speed matters    
+      
 2) 가공(Refinement)   
+: Get to answers, not just ingredients   
    
 3) 전달(Delivery)      
+: For consumption by end-users        
+할항ㅀ아
